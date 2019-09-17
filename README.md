@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I'm David Gravelle. Well into my career as a technical writer and editor, I'm learning to code. As you read this learning journal, please remember to be kind.
+I'm David Gravelle. Well into my career as a technical writer, I'm learning to code. As you read this learning journal, please remember to be kind.
 
 ## What is this learning journal?
 
