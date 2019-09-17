@@ -13,8 +13,8 @@ I'll use this learning journal to always be kind to my colleagues in tech by alw
 ## The growth mindset
 As I learn to code, I'm going to practice a growth mindset in many ways. Here are a few examples:
 - I'll try to **figure things out** as best as I can
-- I won't give up after the first fail, or the second fail, or the third fail
-- I'll ask questions when I have them
+- I won't **give up** after the first fail, or the second fail, or the third fail
+- I'll **ask questions** when I have them
 
 ## Find my profile
 Here's a link to [my profile](https://github.com/dbgrvll/) on GitHub.
