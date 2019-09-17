@@ -1,4 +1,4 @@
-# Welcome to my awesome learning journal
+
 
 ## Introduction
 
