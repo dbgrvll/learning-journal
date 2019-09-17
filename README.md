@@ -19,7 +19,9 @@ As I learn to code, I'm going to practice a growth mindset in many ways. Here ar
 - I'll **ask questions** when I have them
 
 ## A few resources to remember
-- 
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+--[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 ## Find my profile
 Here's a link to [my profile](https://github.com/dbgrvll/) on GitHub.
