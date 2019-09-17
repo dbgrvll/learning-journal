@@ -6,6 +6,11 @@
 
 I'm David Gravelle. Well into my career as a technical writer, I'm learning to code. As you read this learning journal, please remember to be kind.
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
 ## What is this learning journal?
 
 I'll use this learning journal to always be kind to my colleagues in tech by always, always leaving behind a record of what I have done and how I did it.
