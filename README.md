@@ -18,6 +18,9 @@ As I learn to code, I'm going to practice a growth mindset in many ways. Here ar
 - I won't **give up** after the first fail, or the second fail, or the third fail
 - I'll **ask questions** when I have them
 
+## A few resources to remember
+- 
+
 ## Find my profile
 Here's a link to [my profile](https://github.com/dbgrvll/) on GitHub.
 
