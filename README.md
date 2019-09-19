@@ -18,6 +18,20 @@ As I learn to code, I'm going to practice a growth mindset in many ways. Here ar
 - I won't **give up** after the first fail, or the second fail, or the third fail
 - I'll **ask questions** when I have them
 
+## Choosing a text editor
+
+Here are some resources to help you select a text editor:
+
+[Seeking the best Text Editor for Programming](https://coderseye.com/best-text-editors-for-programming/)
+[5 Best Text Editors for Programmers in 2019](https://zeroequalsfalse.press/posts/developer-text-editor/)
+
+
+This is why it’s important for software developers to be thoughtful about their selection of what they use to write code:
+
+Here's a cheat sheet for basic terminal usage:
+
+
+
 ## A few resources to remember
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
