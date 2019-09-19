@@ -27,14 +27,22 @@ Here are some resources to help you select a text editor:
 - [Seeking the best Text Editor for Programming](https://coderseye.com/best-text-editors-for-programming/)
 - [5 Best Text Editors for Programmers in 2019](https://zeroequalsfalse.press/posts/developer-text-editor/)
 
+## Which editor to select?
 
-This is why it’s important for software developers to be thoughtful about their selection of what they use to write code:
+Here's why it’s important for you to be thoughtful about the editor you use to write code:
 
-Here's a cheat sheet for basic terminal usage:
+- Cost - Many editors are open source, free, or near- free
+- Features -  Syntax highlighting, code completion, others that make work easier and speedier
+- Operating systems - Available for your operating system (Windows, Mac, Linux)
+- Languages - Supports python, javascript, ruby, html, css, php, or other languages you need
 
+## Cheat sheet for terminal usage
 
+You can download a file of cheat sheet for basic terminal usage from Tower, a Git client for Mac and Windows:
 
-## A few resources to remember
+[Command Line Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli)
+
+## Markdown resaources
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
  - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
