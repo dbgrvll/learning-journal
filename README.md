@@ -51,7 +51,7 @@ You can download a file of cheat sheet for basic terminal usage from Tower, a Gi
 Here's a link to [my profile](https://github.com/dbgrvll/) on GitHub.
 
 ## Find my live site
-Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/)
+Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.
 
 
 
