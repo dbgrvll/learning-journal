@@ -18,7 +18,9 @@ As I learn to code, I'm going to practice a growth mindset in many ways. Here ar
 - I won't **give up** after the first fail, or the second fail, or the third fail
 - I'll **ask questions** when I have them
 
-## Choosing a text editor
+## Selecting a text editor
+
+Software developers use text editors to write code as they create web sites and applications. These editors are different from the word processors we use to write resumes, newsletters, and other documents. There are a number of editors to consider:
 
 Here are some resources to help you select a text editor:
 
