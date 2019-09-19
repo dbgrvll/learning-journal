@@ -31,10 +31,10 @@ Here are some resources to help you select a text editor:
 
 Here's why it’s important for you to be thoughtful about the editor you use to write code:
 
-- Cost - Many editors are open source, free, or near- free
-- Features -  Syntax highlighting, code completion, others that make work easier and speedier
-- Operating systems - Available for your operating system (Windows, Mac, Linux)
-- Languages - Supports python, javascript, ruby, html, css, php, or other languages you need
+- **Cost** - Many editors are open source, free, or near- free
+- **Features** -  Syntax highlighting, code completion, others that make work easier and speedier
+- **Operating systems** - Available for your operating system (Windows, Mac, Linux)
+- **Languages** - Supports python, javascript, ruby, html, css, php, or other languages you need
 
 ## Cheat sheet for terminal usage
 
