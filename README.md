@@ -24,8 +24,8 @@ Software developers use text editors to write code as they create web sites and 
 
 Here are some resources to help you select a text editor:
 
-[Seeking the best Text Editor for Programming](https://coderseye.com/best-text-editors-for-programming/)
-[5 Best Text Editors for Programmers in 2019](https://zeroequalsfalse.press/posts/developer-text-editor/)
+- [Seeking the best Text Editor for Programming](https://coderseye.com/best-text-editors-for-programming/)
+- [5 Best Text Editors for Programmers in 2019](https://zeroequalsfalse.press/posts/developer-text-editor/)
 
 
 This is why it’s important for software developers to be thoughtful about their selection of what they use to write code:
