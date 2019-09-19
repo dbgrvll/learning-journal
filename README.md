@@ -2,9 +2,9 @@
 
 
 
-## Introduction
+## dbgrvll
 
-I'm David Gravelle. Well into my career as a technical writer, I'm learning to code. As you read this learning journal, please remember:
+I'm David Gravelle (or "dbgrvll"). Well into my career as a technical writer, I'm learning to code. As you read this learning journal, please remember:
 > be kind.
 
 
