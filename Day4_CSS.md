@@ -1,5 +1,12 @@
 
-## Read
+### CSS
+Here's some handy info abut what CSS does, how CSS works, rules, properties, and CSS values.
+- CSS handles each HTML element as if it appears inside its own box and uses rules to indicatre how that element should look
+- Rules are made up of selectors and declararions
+- Different types of selectors allows you to target your rules at different elements
+- Declararions are made of two parts: properties of the element that you want to change and the values of thiose properties. For example, font-family property sets the choice of font and the value Arial as the preferred typeface
+- CSS rules usually appear in a separate doc although sometimes the're in an HTML page
+
 ### HTML5 Layout
 Note: HTML5 elements are common to the vast majority of web pages
 
@@ -28,6 +35,8 @@ Here's hand info about how to specify colors, terminology about color and contra
 - Ensure contrast between text and background color so people can read your content
 - CSS3 includes RGBA
 - CSS3 allows you to specify colors as HSL values or HSLA
+
+
 
 
 
