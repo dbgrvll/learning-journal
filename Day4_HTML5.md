@@ -54,8 +54,6 @@ Extra markup enables you to specify different versions of HTML, identify and gro
 
 For more, see Chapter 8 of Jon Duckett's "HTML &amp; CSS: Design and Build Websites".
 
-## Find my profile
-Here's a link to [my profile](https://github.com/dbgrvll/) on GitHub.
 
 ## Find my live site
 Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.
