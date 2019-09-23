@@ -1,7 +1,7 @@
 ## Activate web pages with JavaScript
 
 ### Writing a script for a web page
-To write a script, you'll want to understand the how JavaScript language fits with HTML and CSS in your web pages.
+To write a script, you'll want to understand how JavaScript language fits with HTML and CSS in your web pages.
 - HTML is the content layer. It provides structure and semantics.
 - CSS is the presentation layer. It enhances the HTML content is presented by setting rules about backgrounds, borders, colors, and more. 
 - JavaScript is about the behavior of the website. 
@@ -28,7 +28,7 @@ Note: A full list of keywords and reserved words are included [online](http://ja
   - Use a name that is meaningful and gives an idea of the function
   - Capitalize the first letter of each word following the first in multi-word variables. For example, 'firstName' rather than 'firstname'.
 
-For more, including code code examples, see pages 50 - 69 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, including code examples, see pages 50 - 69 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
 ## Find my live site
 Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.
