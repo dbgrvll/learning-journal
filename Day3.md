@@ -11,8 +11,6 @@ In fact, you might say we ACPd: Added, Committed, and Pushed the changes we want
 Here's an essential link to useful git information:
 [Git Tutorial: A Comprehensive Guide](https://dbgrvll.github.io/learning-journal/)
 
-## Find my profile
-Here's a link to [my profile](https://github.com/dbgrvll/) on GitHub.
 
 ## Find my live site
 Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.

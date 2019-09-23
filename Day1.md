@@ -18,8 +18,6 @@ As I learn to code, I'm going to practice a growth mindset in many ways. Here ar
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
  - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
-## Find my profile
-Here's a link to [my profile](https://github.com/dbgrvll/) on GitHub.
 
 ## Find my live site
 Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.
