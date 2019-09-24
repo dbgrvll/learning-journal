@@ -10,7 +10,7 @@ Let's discuss programming with JavaScript. We'll break out the information we ne
 - Break down your goal into a series of tasks and then work out each step needed to complete the task. Perhaps flowchart the tasks.
 
 
-For more, including code examples, see pages 1 - 24 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, see pages 1 - 24 of Jon Duckett's ["JavaScript &amp; JQuery: Interactive Front-end Web Developments"](http://javascriptbook.com/).
 
 ### Expressions and operators
 
