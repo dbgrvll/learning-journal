@@ -9,6 +9,7 @@ Following are the segments we've completed:
 - [Structure web pages with HTML](Day4_HTML5.md)
 - [Design web pages with CSS](Day4_CSS.md)
 - [Activate web pages with JavaScript](Day4_JavaScript.md)
+- [Programming with JavaScript](Day5_jQuery.md)
 
 
 
