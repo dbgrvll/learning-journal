@@ -28,7 +28,7 @@ Note: A full list of keywords and reserved words are included [online](http://ja
   - Use a name that is meaningful and gives an idea of the function
   - Capitalize the first letter of each word following the first in multi-word variables. For example, 'firstName' rather than 'firstname'.
 
-For more, including code code examples, see pages 50 - 69 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, including code examples, see pages 50 - 69 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
 ## Find my live site
 Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.
