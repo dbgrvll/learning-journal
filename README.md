@@ -10,6 +10,7 @@ Following are the segments we've completed:
 - [Design web pages with CSS](Day4_CSS.md)
 - [Activate web pages with JavaScript](Day4_JavaScript.md)
 - [Programming with JavaScript](Day5_jQuery.md)
+- [Computer Architecture and Logic](Day6_Logic.md)
 
 
 
