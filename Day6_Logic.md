@@ -1,15 +1,23 @@
 ## Computer Architecture and Logic
 
-### How Computers Work
+### Loops
+- for 
+- while
+- do...while
 
-#### Introducing How Computers Work
+#### Loop counters
 
-#### What Makes a Computer, a Computer?
+- Initialization
+- Condition
+- Update
 
-#### Binary and Data
+#### Looping
 
-#### Circuits and Logic
 
-#### CPU, Memory, Input, and Output
 
-#### Hardware and Software
+#### Key loop concepts
+
+#### Using for loops
+
+#### Using while loops
+
