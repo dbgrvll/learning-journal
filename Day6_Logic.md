@@ -13,7 +13,7 @@ For more, see page 170 of Jon Duckett's ["JavaScript &amp; JQuery: Interactive F
 - '<', '<=' - If you want a loop to continue to run until the counter reaches a specified number. 
 - 'i++', 'i--' - If you want to add to ('++') or subtract ('--') from the counter after running the statements inside the curly braces ('{','}').
 
-For more, including code snippets, see page 171 of of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, including code snippets, see page 171 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
 #### Looping
 
@@ -32,7 +32,7 @@ Step-by-step:
 - The variable is incremented by one.
 - When condition checks to a number equal to 10, the loop ends.
 
-For more, including a code snippet, see pages 172-173 of of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, including a code snippet, see pages 172-173 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
 #### Key loop concepts
 
@@ -49,7 +49,7 @@ For more, see page 174 of of Jon Duckett's "JavaScript &amp; JQuery: Interactive
 - Often used to loop through items in an array.
 - Example provided in the book for scores for each round of a test in an array called 'scores'.
 
-For more, including a code sample, see page 175 of of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, including a code sample, see page 175 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
 #### Using while loops
 
@@ -57,7 +57,7 @@ For more, including a code sample, see page 175 of of Jon Duckett's "JavaScript 
 - Example provided in the book is of a 5 times table set to run 10 times.
 - This section also provides a shortcut '+=' operator that stands in for 'msg = msg + 'new msg'.
 
-For more, including a code sample, see page 176 of of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, including a code sample, see page 176 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
 ## Find my live site
 Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.
