@@ -42,7 +42,7 @@ For more, including a code snippet, see pages 172-173 of Jon Duckett's "JavaScri
 - Loops, arrays
 - Performance issues
 
-For more, see page 174 of of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
+For more, see page 174 of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
 #### Using 'for' loops
 
