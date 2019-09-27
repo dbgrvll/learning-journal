@@ -59,3 +59,7 @@ For more, including a code sample, see page 175 of of Jon Duckett's "JavaScript 
 
 For more, including a code sample, see page 176 of of Jon Duckett's "JavaScript &amp; JQuery: Interactive Front-end Web Developments".
 
+## Find my live site
+Here's a link to [my live site](https://dbgrvll.github.io/learning-journal/) on GitHub.
+
+
